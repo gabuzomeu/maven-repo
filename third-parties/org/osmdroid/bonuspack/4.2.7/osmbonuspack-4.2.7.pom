@@ -3,6 +3,7 @@
  
     <groupId>org.osmdroid.bonuspack</groupId>
     <artifactId>osmbonuspack</artifactId>
+    <version>4.2.7</version>
     <packaging>jar</packaging>
 
     <name>OSMBonusPack</name>
